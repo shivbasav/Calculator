@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Steps to run the code:
+1)Import or clone the project in VS code.
+2)Navigate to the project folder through terminal
+3)Use the command npm start
+If you don't have npm and other dependences installed in your system please do and then proceed.
+
 
 ## Available Scripts
 
